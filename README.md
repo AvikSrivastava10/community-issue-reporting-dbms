@@ -46,6 +46,7 @@ Built with **Oracle SQL** and includes entity relationships, constraints, and sa
 
 ## 🧩 ER Diagram
 
+![ER Diagram](flowchart.png)
 
 
 ---
