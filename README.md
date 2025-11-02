@@ -20,7 +20,6 @@ Built with **Oracle SQL** and includes entity relationships, constraints, and sa
 | File | Description |
 |------|--------------|
 | `community_issue_reporting.sql` | Contains all table creation, insertion, and query statements. |
-| `er_diagram.md` | Contains ER diagram (Mermaid code + preview instructions). |
 | `README.md` | Project overview, setup guide, and usage. |
 
 ---
@@ -47,7 +46,7 @@ Built with **Oracle SQL** and includes entity relationships, constraints, and sa
 
 ## 🧩 ER Diagram
 
-The ER Diagram is included in [`er_diagram.md`](er_diagram.md) and can be viewed directly in GitHub (Mermaid supported) or in the [Mermaid Live Editor](https://mermaid.live/).
+
 
 ---
 
